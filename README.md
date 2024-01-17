@@ -49,20 +49,6 @@ Susahnya dalam mencari file defect yang sudah di analisa dikarenakan menyimpan f
    localhost/projek_2
 
 ## Folder structure
-
- ┣ 📂projek_2
- ┃ ┣ 📂uploads
- ┃ ┃ ┣ 📜foto.jpg
- ┃ ┣📜car-check.png
- ┃ ┣📜ctm.php
- ┃ ┣📜dbinput.sql
- ┃ ┣📜halaman_baru.php
- ┃ ┣📜hasil.php
- ┃ ┣📜history.php
- ┃ ┣📜index.php
- ┃ ┣📜login.php
- ┃ ┣📜logout.php
- ┃ ┗📜update_status.php
  
 ![image](https://github.com/ajieprasetya/Analisa_Defect/assets/96431164/3545b832-dc56-4ec0-9348-e15506779d61)
 
