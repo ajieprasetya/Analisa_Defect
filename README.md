@@ -64,6 +64,7 @@ Susahnya dalam mencari file defect yang sudah di analisa dikarenakan menyimpan f
  ┃ ┣📜logout.php
  ┃ ┗📜update_status.php
  
+![image](https://github.com/ajieprasetya/Analisa_Defect/assets/96431164/3545b832-dc56-4ec0-9348-e15506779d61)
 
 
 ## Credits
